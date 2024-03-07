@@ -1,5 +1,8 @@
 0x02. ES6 classes
 
+![image](https://github.com/MahiHailu/alx-frontend-javascript/assets/125457375/f3771426-f404-4250-bb81-ef6bab8d220b)
+
+
 Resources
 Read or watch:
 
