@@ -1,5 +1,7 @@
 0x03. ES6 data manipulation
 
+![Uploading image.png…]()
+
 Resources
 Read or watch:
 
